@@ -1,0 +1,34 @@
+
+.hero-image{
+    height: 400px;
+}
+.hero-image img{
+    object-fit: cover;
+}
+.boddy{
+    background-color:rgba(0, 0, 0, 0.893);
+}
+.texxt{
+    color: rgba(255, 255, 255, 0.826);
+}
+.bull{
+    border: none;
+}
+.run{
+    background: linear-gradient(to right,rgba(0, 0, 0, 0.835),black 50%);
+}
+.san{
+    display: flex;
+    justify-content: space-between;
+}
+.buddy{
+    background-color: rgba(84, 80, 80, 0.606);
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.minn{
+    gap: 20px;
+}
